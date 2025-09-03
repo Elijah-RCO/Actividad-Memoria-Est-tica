@@ -1,6 +1,6 @@
 # 📘 Mini-Sistema de Registro de Calificaciones en Python
 
-## 📌 Descripción
+##  Descripción
 Este proyecto implementa un **mini-sistema de registro de calificaciones de estudiantes** en Python, con el objetivo de comprender y aplicar los conceptos de:
 
 - **Memoria estática (inmutable):**  
@@ -14,7 +14,7 @@ Además, el programa permite calcular el promedio final del estudiante.
 
 ---
 
-## 🛠️ Funcionalidades
+##  Funcionalidades
 - Agregar calificación a un curso.  
 - Modificar calificación existente.  
 - Eliminar calificación.  
@@ -23,7 +23,7 @@ Además, el programa permite calcular el promedio final del estudiante.
 
 ---
 
-## 🚀 Ejecución
+##  Ejecución
 ### Requisitos
 - Python 3.8 o superior
 
@@ -31,4 +31,3 @@ Además, el programa permite calcular el promedio final del estudiante.
 1. Clonar este repositorio:
    ```bash
    git clone https://github.com/Elijah-RCO/Actividad-Memoria-Est-tica.git
-   
